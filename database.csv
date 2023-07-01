@@ -1,0 +1,73 @@
+﻿Name_project,P1,P1_role,P1_number,P1_FT,P1_city,P1_distance,P2,P2_role,P2_number,P2_FT,P2_city,P2_distance
+Automatic SDG Alignment and Budget Tagging,Daniele,Senior PDRA,10,TRUE,Milano,958.74,Omar,Head,100,TRUE,Oxford,92
+Government and Media Behaviour,Daniele,Senior PDRA,10,TRUE,Milano,958.74,Omar,Head,100,TRUE,Oxford,92
+Tackling Health Inequalities,Daniele,Senior PDRA,10,TRUE,Milano,958.74,Omar,Head,100,TRUE,Oxford,92
+The Climate Security Index,Daniele,Senior PDRA,10,TRUE,Milano,958.74,Omar,Head,100,TRUE,Oxford,92
+Tackling Health Inequalities,Daniele,Senior PDRA,10,TRUE,Milano,958.74,Gisela,RA,84,FALSE,Oxford,92
+Tackling Health Inequalities,Daniele,Senior PDRA,10,TRUE,Milano,958.74,Rilwan,RA,92,TRUE,London,0
+Government and Media Behaviour,Daniele,Senior PDRA,10,TRUE,Milano,958.74,Alejandro,PDRA,85,TRUE,London,0
+Nodality,Daniele,Senior PDRA,10,TRUE,Milano,958.74,Hardik,PDRA,30,FALSE,London,0
+Nodality,Daniele,Senior PDRA,10,TRUE,Milano,958.74,Leonardo,PDRA,23,TRUE,London,0
+Tackling Health Inequalities,Gisela,RA,84,FALSE,Oxford,92,Daniele,Senior PDRA,10,TRUE,Milano,958.74
+Tackling Health Inequalities,Gisela,RA,84,FALSE,Oxford,92,Rilwan,RA,92,TRUE,London,0
+Tackling Health Inequalities,Gisela,RA,84,FALSE,Oxford,92,Omar,Head,100,TRUE,Oxford,92
+Tackling Health Inequalities,Rilwan,RA,92,TRUE,London,0,Daniele,Senior PDRA,10,TRUE,Milano,958.74
+Tackling Health Inequalities,Rilwan,RA,92,TRUE,London,0,Rilwan,RA,92,TRUE,London,0
+Tackling Health Inequalities,Rilwan,RA,92,TRUE,London,0,Omar,Head,100,TRUE,Oxford,92
+Detecting Firms’ Fringe Behaviour,Alejandro,PDRA,85,TRUE,London,0,Kat,PDRA,40,TRUE,London,0
+Detecting Firms’ Fringe Behaviour,Alejandro,PDRA,85,TRUE,London,0,Leonardo,PDRA,23,TRUE,London,0
+Detecting Firms’ Fringe Behaviour,Alejandro,PDRA,85,TRUE,London,0,Omar,Head,100,TRUE,Oxford,92
+Government and Media Behaviour,Alejandro,PDRA,85,TRUE,London,0,Omar,Head,100,TRUE,Oxford,92
+Government and Media Behaviour,Alejandro,PDRA,85,TRUE,London,0,Daniele,Senior PDRA,10,TRUE,Milano,958.74
+Machine Learning to Quantify the Global Technological Landscape,Tuong,Senior PDRA,48,TRUE,Sheffiled,269.4,Hardik,PDRA,30,FALSE,London,0
+Machine Learning to Quantify the Global Technological Landscape,Tuong,Senior PDRA,48,TRUE,Sheffiled,269.4,Omar,Head,100,TRUE,Oxford,92
+Endogenous Production Network,Tuong,Senior PDRA,48,TRUE,Sheffiled,269.4,Omar,Head,100,TRUE,Oxford,92
+Labour flow networks,Kat,PDRA,40,TRUE,London,0,David,RA,59,FALSE,London,0
+Skill Interaction and Complexity,Kat,PDRA,40,TRUE,London,0,Santiago,RA,17,FALSE,London,0
+Skill Interaction and Complexity,Kat,PDRA,40,TRUE,London,0,Hardik,PDRA,30,FALSE,London,0
+Detecting Firms’ Fringe Behaviour,Kat,PDRA,40,TRUE,London,0,Alejandro,PDRA,85,TRUE,London,0
+Detecting Firms’ Fringe Behaviour,Kat,PDRA,40,TRUE,London,0,Leonardo,PDRA,23,TRUE,London,0
+Labour flow networks,Kat,PDRA,40,TRUE,London,0,Omar,Head,100,TRUE,Oxford,92
+Skill Interaction and Complexity,Kat,PDRA,40,TRUE,London,0,Omar,Head,100,TRUE,Oxford,92
+Emerging age structure for ABMs,Kat,PDRA,40,TRUE,London,0,Omar,Head,100,TRUE,Oxford,92
+Detecting Firms’ Fringe Behaviour,Kat,PDRA,40,TRUE,London,0,Omar,Head,100,TRUE,Oxford,92
+Machine Learning to Quantify the Global Technological Landscape,Hardik,PDRA,30,FALSE,London,0,Tuong,Senior PDRA,48,TRUE,Sheffiled,269.4
+Skill Interaction and Complexity,Hardik,PDRA,30,FALSE,London,0,Santiago,RA,17,FALSE,London,0
+Skill Interaction and Complexity,Hardik,PDRA,30,FALSE,London,0,Kat,PDRA,40,TRUE,London,0
+Nodality,Hardik,PDRA,30,FALSE,London,0,Leonardo,PDRA,23,TRUE,London,0
+Nodality,Hardik,PDRA,30,FALSE,London,0,Daniele,Senior PDRA,10,TRUE,Milano,958.74
+Skill Interaction and Complexity,Hardik,PDRA,30,FALSE,London,0,Omar,Head,100,TRUE,Oxford,92
+Machine Learning to Quantify the Global Technological Landscape,Hardik,PDRA,30,FALSE,London,0,Omar,Head,100,TRUE,Oxford,92
+Skill Sorting and Productivity,Zack,PDRA,48,TRUE,London,0,Omar,Head,100,TRUE,Oxford,92
+Housing Market Dynamics,Zack,PDRA,48,TRUE,London,0,Omar,Head,100,TRUE,Oxford,92
+Nodality,Leonardo,PDRA,23,TRUE,London,0,Daniele,Senior PDRA,10,TRUE,Milano,958.74
+Nodality,Leonardo,PDRA,23,TRUE,London,0,Hardik,PDRA,30,FALSE,London,0
+Detecting Firms’ Fringe Behaviour,Leonardo,PDRA,23,TRUE,London,0,Kat,PDRA,40,TRUE,London,0
+Detecting Firms’ Fringe Behaviour,Leonardo,PDRA,23,TRUE,London,0,Alejandro,PDRA,85,TRUE,London,0
+Detecting Firms’ Fringe Behaviour,Leonardo,PDRA,23,TRUE,London,0,Omar,Head,100,TRUE,Oxford,92
+Skill Interaction and Complexity,Santiago,RA,17,FALSE,London,0,Hardik,PDRA,30,FALSE,London,0
+Skill Interaction and Complexity,Santiago,RA,17,FALSE,London,0,Kat,PDRA,40,TRUE,London,0
+Skill Interaction and Complexity,Santiago,RA,17,FALSE,London,0,Omar,Head,100,TRUE,Oxford,92
+Labour flow networks,David,RA,59,FALSE,London,0,Kat,PDRA,40,TRUE,London,0
+Labour flow networks,David,RA,59,FALSE,London,0,Omar,Head,100,TRUE,Oxford,92
+Tackling Health Inequalities,Omar,Head,100,TRUE,Oxford,92,Rilwan,RA,92,TRUE,London,0
+Automatic SDG Alignment and Budget Tagging,Omar,Head,100,TRUE,Oxford,92,Daniele,Senior PDRA,10,TRUE,Milano,958.74
+Government and Media Behaviour,Omar,Head,100,TRUE,Oxford,92,Daniele,Senior PDRA,10,TRUE,Milano,958.74
+Tackling Health Inequalities,Omar,Head,100,TRUE,Oxford,92,Daniele,Senior PDRA,10,TRUE,Milano,958.74
+The Climate Security Index,Omar,Head,100,TRUE,Oxford,92,Daniele,Senior PDRA,10,TRUE,Milano,958.74
+Tackling Health Inequalities,Omar,Head,100,TRUE,Oxford,92,Gisela,RA,84,FALSE,Oxford,92
+Detecting Firms’ Fringe Behaviour,Omar,Head,100,TRUE,Oxford,92,Alejandro,PDRA,85,TRUE,London,0
+Government and Media Behaviour,Omar,Head,100,TRUE,Oxford,92,Alejandro,PDRA,85,TRUE,London,0
+Machine Learning to Quantify the Global Technological Landscape,Omar,Head,100,TRUE,Oxford,92,Tuong,Senior PDRA,48,TRUE,Sheffiled,269.4
+Endogenous Production Network,Omar,Head,100,TRUE,Oxford,92,Tuong,Senior PDRA,48,TRUE,Sheffiled,269.4
+Labour flow networks,Omar,Head,100,TRUE,Oxford,92,Kat,PDRA,40,TRUE,London,0
+Skill Interaction and Complexity,Omar,Head,100,TRUE,Oxford,92,Kat,PDRA,40,TRUE,London,0
+Emerging age structure for ABMs,Omar,Head,100,TRUE,Oxford,92,Kat,PDRA,40,TRUE,London,0
+Detecting Firms’ Fringe Behaviour,Omar,Head,100,TRUE,Oxford,92,Kat,PDRA,40,TRUE,London,0
+Skill Interaction and Complexity,Omar,Head,100,TRUE,Oxford,92,Hardik,PDRA,30,FALSE,London,0
+Machine Learning to Quantify the Global Technological Landscape,Omar,Head,100,TRUE,Oxford,92,Hardik,PDRA,30,FALSE,London,0
+Skill Sorting and Productivity,Omar,Head,100,TRUE,Oxford,92,Zack,PDRA,48,TRUE,London,0
+Housing Market Dynamics,Omar,Head,100,TRUE,Oxford,92,Zack,PDRA,48,TRUE,London,0
+Detecting Firms’ Fringe Behaviour,Omar,Head,100,TRUE,Oxford,92,Leonardo,PDRA,23,TRUE,London,0
+Skill Interaction and Complexity,Omar,Head,100,TRUE,Oxford,92,Santiago,RA,17,FALSE,London,0
+Labour flow networks,Omar,Head,100,TRUE,Oxford,92,David,RA,59,FALSE,London,0
